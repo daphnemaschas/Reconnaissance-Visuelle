@@ -17,5 +17,5 @@ Les sujets suivants seront abordés à la fois en cours et dans les séances pra
 - Calibration - Reconstruction 3D.
 
 ## Plan des Labs
-1 - Prise en main de OpenCV
+1. Prise en main de OpenCV
 
