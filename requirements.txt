@@ -1,9 +1,13 @@
+# Deep Learning & CV Libraries
 torch
 transformers
 datasets
 scikit-learn
+opencv-python
+opencv-contrib-python
+
+# Data Manipulation & Visualization
 pandas
 numpy
 matplotlib
 seaborn
-datasets
